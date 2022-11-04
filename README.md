@@ -8,7 +8,7 @@ commands
 npm install
 
 # build
-npm build
+npm run build
 
 # run
 npm start
